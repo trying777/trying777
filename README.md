@@ -1,7 +1,9 @@
 ![Header Image](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjWW1SgYCKzYoZfe6lvd0wQP_8g6yo9LTL_guyhNn2Fo7QZzk2AcJBw-tts5MrGCZQGKr6vwf85keaB_xoDapWmEtQBpILPUuVzVG-3LNyhX090t1yjDeYQxGNrk2TRhN_XY9FwO1_XS15v6acbo5jL4QMoFCvqgWhU6I_pmU9EVBjKCPZtZnQNLAEv10/s728-rw-e365/bluetooth.jpg)
 
 <h1 align="center">Hi 👋, I'm Varsha N</h1>
-<h3 align="center">🎓 **A passionate Computer Science and Engineering student** with a strong foundation in **software development**, **data analysis**, and **problem-solving**. I thrive in collaborative environments and am committed to **continuous learning** and applying new technologies to solve real-world challenges. Whether it's building innovative software solutions or diving deep into data, I'm always looking for new opportunities to grow and contribute.</h3>
+<h3 align="center">🎓A passionate Computer Science and Engineering student</h3>
+- <img align="right" alt="coding" width="400" src="https://cdn.vectorstock.com/i/1000v/40/61/woman-working-with-computer-home-office-student-vector-42254061.jpg">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trying777&label=Profile%20views&color=0e75b6&style=flat" alt="trying777" /> </p>
 
@@ -9,15 +11,16 @@
 
 - 👯 I’m looking to collaborate on **- Open source projects related to **data analysis** and **visualization**. - Software development projects using **Python** and **Java**. - Initiatives that focus on **machine learning** and **data-driven applications**.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/trying777](https://github.com/trying777)
+- 👨‍💻 All of my projects are available at <a href="https://github.com/trying777?tab=repositories">
+here
+</a>
 
 - 📫 How to reach me **varshanarayan0@gmail.com**
 
-- 📄 My resume [https://drive.google.com/file/d/1Auju9F0hOS2AV1MnzHBAN54fM_K-hnot/view?usp=sharing](https://drive.google.com/file/d/1Auju9F0hOS2AV1MnzHBAN54fM_K-hnot/view?usp=sharing)
-
+- 📄 My resume <a href="https://drive.google.com/file/d/1Auju9F0hOS2AV1MnzHBAN54fM_K-hnot/view?usp=sharing target=_self">
+here
+</a>
 - ⚡ Fun fact **I enjoy solving chess puzzles in my free time.**
-
-- <img align="right" alt="coding" width="400" src="https://cdn.vectorstock.com/i/1000v/40/61/woman-working-with-computer-home-office-student-vector-42254061.jpg">
 
 
 <h3 align="left">Connect with me:</h3>
