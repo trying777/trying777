@@ -7,18 +7,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trying777&label=Profile%20views&color=0e75b6&style=flat" alt="trying777" /> </p>
 
-- 🔭 I’m currently working on **Data analysis, DSA, Node.js, powerBI**
+- 🔭 I’m currently Pursuing B.Tech in Computer Science and Engineering
 
-- 👯 I’m looking to collaborate on **- Open source projects related to **data analysis** and **visualization**. - Software development projects using **Python** and **Java**. - Initiatives that focus on **machine learning** and **data-driven applications**.**
+- 👯 I’m looking to collaborate on **- Open source projects**.**
 
-- 👨‍💻 All of my projects are available at <a href="https://github.com/trying777?tab=repositories">
-here
 </a>
 
-- 📫 How to reach me **varshanarayan0@gmail.com**
+- 📫 reach me on **varshanarayan0@gmail.com**
 
-- 📄 My resume <a href="https://drive.google.com/file/d/1Auju9F0hOS2AV1MnzHBAN54fM_K-hnot/view?usp=sharing target=_self">
-here
 </a>
 - ⚡ Fun fact **I enjoy solving chess puzzles in my free time.**
 
